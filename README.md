@@ -1,2 +1,4 @@
-# Computational_Neuroscience_UniversityCourse
-This is repository of the Computational Neuroscience including 4 assignments with its soulutions.
+# Computational Neuroscience a Shahid Beheshti University Course
+This is the repository of the Computational Neuroscience course, including four assignments with their solutions.
+
+The date of this course was Sunday, January 1.
